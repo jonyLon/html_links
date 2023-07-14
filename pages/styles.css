@@ -1,0 +1,32 @@
+a {
+  width: 300px;
+  margin: auto;
+  text-align: center;
+  font-size: 25px;
+}
+
+div {
+  width: 1300px;
+  margin: auto;
+}
+
+img {
+  width: inherit;
+  margin: auto;
+}
+
+h1 {
+  text-align: center;
+}
+
+.main-img {
+  float: left;
+  width: 50%;
+  margin: 0 20px;
+}
+
+p {
+  font-size: 22px;
+  text-align: center;
+  margin: 20px;
+}
